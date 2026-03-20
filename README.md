@@ -346,20 +346,5 @@ The Social Security Code 2020 (enacted November 2025) mandates welfare funds for
 
 ---
 
-## 13. Why GigShield AI Wins
-
-| What Winners Do | How GigShield Delivers It |
-|---|---|
-| Solve a REAL market problem with quantified TAM | 1.2 Cr gig workers, 80% unprotected, $29.3B parametric market by 2031 (EY 2025) |
-| Have a WORKING demo, not just slides | Full React PWA with real OpenWeatherMap API, live 10-step AutoPay pipeline, Razorpay payment modal |
-| Show AI doing something non-trivial and explainable | XGBoost premium engine + 7-signal fraud composite + Isolation Forest ring detection + WIIS scoring, all with plain-language explainability |
-| Understand the INSURER's P&L, not just end user | Loss ratio optimizer dashboard, reserve alerts, zone-wise breakdown, premium adjustment recommendations — exactly what Guidewire PricingCenter targets |
-| Have a business model that makes money | Premium spread + SaaS fee + B2B integration fee. Break-even at 8,500 workers. ₹16.9Cr margin at 1% market penetration |
-| Match Guidewire's 2025 product vision | Dynamic AI pricing (PricingCenter), agentic claims automation (ClaimCenter), parametric triggers, explainable AI — direct alignment with Guidewire Olos release |
-| Go beyond the brief with innovation | WIIS Score: India's first portable gig income identity. Turns insurance into a financial reputation layer across all gig platforms |
-
----
-
-> *"We're not just building a hackathon project. We're building the safety net India's 1.2 crore gig workers never had."*
 
 **GigShield AI · Guidewire DEVTrails 2026 · University Hackathon · Phase 1 Submission**
